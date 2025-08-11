@@ -27,6 +27,6 @@ CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
 AUTO_REACT: process.env.AUTO_REACT || "false",
 HEART_REACT: process.env.HEART_REACT || "false",
 OWNER_REACT: process.env.OWNER_REACT || "false",
-BOT_NAME: process.env.BOT_NAME || "≛⃝𝐃𝚫𝚪𝐊 𓆩𝐒𝚵𝚴𝐒𝚵𝚴*≛⃝🩸",
+BOT_NAME: process.env.BOT_NAME || "≛⃝𝐃𝚫𝚪𝐊 𓆩𝐒𝚵𝚴S𝚵𝚴*≛⃝🩸",
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
