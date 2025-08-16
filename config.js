@@ -8,10 +8,10 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID || "XTREME~XMD~G0QwHAAa#BZ72wgRpmOOGW5Q37m4Z0dxJEYdEEFsEm8djnxcajcw",
+SESSION_ID: process.env.SESSION_ID || "XTREME~XMD~u9hCFLbK#ZbwTEeDK3usy0QznBztT8Ny163UxVP0purVj5Gj2_eg",
 
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
-MODE: process.env.MODE || "public",
+MODE: process.env.MODE || "private",
 AUTO_VOICE: process.env.AUTO_VOICE || "false",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
